@@ -1,1 +1,2 @@
 # Open-Machine-Learning-Course
+mlcourse.ai is an open Machine Learning course by OpenDataScience (ods.ai), led by Yury Kashnitsky (yorko). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing an ML course with a perfect balance between theory and practice. Thus, you go through math formulae in lectures, and practice with Kaggle Inclass competitions. Currently, the course is in a self-paced mode. 
